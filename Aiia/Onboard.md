@@ -31,7 +31,7 @@ The onboarding form is available in both Danish and English languages:
 To ensure smooth processing, please remember to save the completed form as a PDF before submission.
 
 ### Submission Process
-Once the form is completed and signed by an authorized individual within the company (such as the CTO or CFO), it should be emailed to aiia.kyc@mastercard.com for the KYC process.
+Once the form is completed and signed by an authorized individual within the company (such as the CEO, CTO, or CFO), it should be emailed to aiia.kyc@mastercard.com for the KYC process.
 
 ### Completion Confirmation
 Upon completion of the KYC process, MasterCard will provide a "DestinationId" via email. Please provide this DestinationId to FarPay Support. Once this step is done, your Aiia Onboarding process will be complete.
