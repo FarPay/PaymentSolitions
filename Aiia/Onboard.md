@@ -1,5 +1,5 @@
 # Aiia Onboarding
-
+Welcome to the Aiia Onboarding process, your gateway to seamlessly integrating Aiia as a payment solution for your customers. This documentation outlines the necessary steps to onboard your company onto the Aiia platform.
 
 ### Onboarding Process Overview
 Before a company can integrate Aiia as a payment solution for their customers, they must complete the onboarding process.
