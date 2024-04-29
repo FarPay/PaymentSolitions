@@ -7,7 +7,7 @@ Before a company can integrate Aiia as a payment solution for their customers, t
 #### Steps to onboard a Company
 
 1. Access Settings:
-    - Navigate to the Settings page
+    - Navigate to the Settings page    
     ![](media/settings.png)
 2. Scroll down to the *Payments Section*
     - Activate Aiia by clicking on the button within the Aiia Card
@@ -24,8 +24,8 @@ After completing the initial onboarding, proceed with the manual onboarding spec
 
 ### Required Form
 The onboarding form is available in both Danish and English languages:
-- [Danish Form - Download](/Aiia/forms/fik_giro_dk.docx)
-- [English Form - Download](/Aiia/forms/fik_giro_en.docx)
+- [Danish Form - Download](https://github.com/FarPay/PaymentSolutions/raw/main/Aiia/forms/fik_giro_dk.docx)
+- [English Form - Download](https://github.com/FarPay/PaymentSolutions/raw/main/Aiia/forms/fik_giro_en.docx)
 
 Certain fields within the form can be filled out by FarPay Support (e.g., Company Name, Address, Number). Hence, the forms are provided in Microsoft Word format (.docx). FarPay Support will complete the applicable fields, save the form as a .pdf, and send it to the company for further completion.
 
