@@ -25,10 +25,9 @@ Once you've completed the initial onboarding, it's time to proceed with the manu
 
 ### Required Form
 The onboarding form is available in both Danish and English languages:
-- [Danish Form - Download](https://github.com/FarPay/PaymentSolutions/raw/main/Aiia/forms/fik_giro_dk.docx)
-- [English Form - Download](https://github.com/FarPay/PaymentSolutions/raw/main/Aiia/forms/fik_giro_en.docx)
+- [Danish Form - Download](https://github.com/FarPay/PaymentSolutions/raw/main/Aiia/forms/Aiia_fik_giro_dk.pdf)
+- [English Form - Download](https://github.com/FarPay/PaymentSolutions/raw/main/Aiia/forms/Aiia_fik_giro_en.pdf)
 
-To ensure smooth processing, please remember to save the completed form as a PDF before submission.
 
 ### Submission Process
 Once the form is completed and signed by an authorized individual within the company (such as the CEO, CTO, or CFO), it should be emailed to aiia.kyc@mastercard.com for the KYC process.
